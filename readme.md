@@ -1,8 +1,11 @@
 Supported games,
-"https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure",
-
-"https://www.roblox.com/games/606849621/MEMES-Jailbreak",
-
-"https://www.roblox.com/games/142823291/Murder-Mystery-2",
+Added Murder Mystery 2
+Added Jailbreak
+Added Build A Boat For Tressure
+Added Da-Hood
+Added Tower off hell
+Added Adopt me
+Added Mortem Metallum (Beta for test)
+Added Field Trip Z 
 
 --ADDING GAMES.
