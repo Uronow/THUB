@@ -13,6 +13,16 @@ Added Adopt me,
 
 Added Mortem Metallum (Beta for test),
 
-Added Field Trip Z 
+Added Field Trip Z,
+
+Added Phantom Forces,
+
+Added Arsenal,
+
+Added Funky Friday,
+
+Added Pet Simulator X!,
+
+Added Mad City,
 
 --ADDING GAMES.
