@@ -25,4 +25,10 @@ Added Pet Simulator X!,
 
 Added Mad City,
 
+Added Blox Fruits,
+
+Added Anime Fighters Simulator,
+
+Added Anime Fighting Simulator,
+
 --ADDING GAMES.
