@@ -32,4 +32,19 @@ Added Anime Fighters Simulator,
 
 Added Anime Fighting Simulator,
 
+Added World // Zero,
+
+Added Ro Ghoul,
+
+Added King Legacy,
+
+Added Zombie Attack,
+
+Added Kat,
+
+Added Lumber Tycoon 2,
+
+Added Counter Blox,
+
+
 --ADDING GAMES.
