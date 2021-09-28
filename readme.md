@@ -1,3 +1,5 @@
+Total supported games 30+
+
 Supported games,
 
 Added Murder Mystery 2,
