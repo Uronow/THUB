@@ -46,5 +46,14 @@ Added Lumber Tycoon 2,
 
 Added Counter Blox,
 
+Added Ninja Legends,
+
+Added Lifting Simulator,
+
+Added Strucid,
+
+Added Brookhaven,
+
+Added Legends Of Speed
 
 --ADDING GAMES.
