@@ -56,6 +56,14 @@ Added Strucid,
 
 Added Brookhaven,
 
-Added Legends Of Speed
+Added Legends Of Speed,
 
---ADDING GAMES.
+Added Hexa Game,
+
+Added Strongest Punch Simulator,
+
+Added Defender's Depot,
+
+Added Bee Swarm Simulator
+
+ --ADDING GAMES.
