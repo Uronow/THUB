@@ -1,4 +1,4 @@
-Total supported games 30+
+Total supported games 39+
 
 Supported games,
 
@@ -64,6 +64,17 @@ Added Strongest Punch Simulator,
 
 Added Defender's Depot,
 
-Added Bee Swarm Simulator
+Added Bee Swarm Simulator,
 
- --ADDING GAMES.
+Added My Restaurant,
+
+Added Wacky wizzards,
+
+Added Treasure Hunt Simulator,
+
+Added A Universal Time,
+
+Added Ragdoll Testing,
+
+--ADDING GAMES.
+
