@@ -1,4 +1,4 @@
-Total supported games 39+
+Total supported games 41+
 
 Supported games,
 
@@ -75,6 +75,10 @@ Added Treasure Hunt Simulator,
 Added A Universal Time,
 
 Added Ragdoll Testing,
+
+Added Breaking Point,
+
+Added Strongman Simulator,
 
 --ADDING GAMES.
 
