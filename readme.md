@@ -1,4 +1,4 @@
-Total supported games 41+
+Total supported games 44+
 
 Supported games,
 
@@ -79,6 +79,12 @@ Added Ragdoll Testing,
 Added Breaking Point,
 
 Added Strongman Simulator,
+
+Added BIG Paintball!,
+
+Added Westbound,
+
+Added Shark Bite,
 
 --ADDING GAMES.
 
