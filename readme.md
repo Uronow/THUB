@@ -1,4 +1,4 @@
-Total supported games 44+
+Total supported games 58+
 
 Supported games,
 
@@ -85,6 +85,34 @@ Added BIG Paintball!,
 Added Westbound,
 
 Added Shark Bite,
+
+Added Reatil Tycoon 2,
+
+Added Horrific Housing,
+
+Added Lucky blocks,
+
+Added Epic Minigames,
+
+Added Parkour,
+
+Added Speedman Simulator,
+
+Added Natural Disaster Survival,
+
+Added Driving Simulator,
+
+Added Zombie Uprising,
+
+Added Work at a Pizza Place,
+
+Added Prison Life,
+
+Added Broken Bones IV,
+
+Added BUBBLE GUM SIMULATOR,
+
+Added Flee the Facility
 
 --ADDING GAMES.
 
