@@ -1,4 +1,4 @@
-Total supported games 58+
+Total supported games 73+
 
 Supported games,
 
@@ -112,7 +112,35 @@ Added Broken Bones IV,
 
 Added BUBBLE GUM SIMULATOR,
 
-Added Flee the Facility
+Added Flee the Facility,
+
+Added Grow Up Simulator,
+
+Added Beeface: Be a Bee!,
+
+Added Mining Simulator,
+
+Added Hide and Seek Extreme,
+
+Added YouTube Simulator X,
+
+Added Little World,
+
+Added Deliveryman Simulator,
+
+Added Survive the Killer!,
+
+Added Millionaire Empire Tycoon,
+
+Added Saber Simulator,
+
+Added Robloxian High School,
+
+Added Royale High,
+
+Added Bitcoin Miner,
+
+Added FALL OF HELL
 
 --ADDING GAMES.
 
