@@ -1,4 +1,4 @@
-Total supported games 73+
+Total supported games 86+
 
 Supported games,
 
@@ -140,7 +140,31 @@ Added Royale High,
 
 Added Bitcoin Miner,
 
-Added FALL OF HELL
+Added FALL OF HELL,
+
+Added Vehicle Simulator,
+
+Added SCP: Roleplay,
+
+Added Boxing League,
+
+Added Car Dealership Tycoon,
+
+Added Restaurant Tycoon 2,
+
+Added BOOGA BOOGA - Classic,
+
+Added Combat Warriors,
+
+Added Anomic,
+
+Added Last Pirates,
+
+Added 3-2-1 Blast Off Simulator,
+
+Added Factory Simulator,
+
+Added SAITAMANIA,
 
 --ADDING GAMES.
 
