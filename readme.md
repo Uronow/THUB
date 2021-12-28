@@ -1,4 +1,4 @@
-Total supported games 86+
+Total supported games 120+
 
 Supported games,
 
@@ -165,6 +165,74 @@ Added 3-2-1 Blast Off Simulator,
 Added Factory Simulator,
 
 Added SAITAMANIA,
+
+Added Super Power Fighting Simulator
+
+Added The Floor Is LAVA!,
+
+Added Gym Tycoon,
+
+Added Vesteria,
+
+Added Undead Defense Tycoon,
+
+Added Blackhawk Rescue Mission 5,
+
+Added Encounters,
+
+Added Survive the Night,
+
+Added Super Strong Simulator,
+
+Added Pet Fighters Simulator,
+
+Added Mall Tycoon,
+
+Added Islands,
+
+Added Demonfall,
+
+Added Those Who Remain,
+
+Added Muscle Legends,
+
+Added Bedwars,
+
+Added Fish Game,
+
+Added Bulked Up,
+
+Added Tower of Misery,
+
+Added MeepCity,
+
+Added Fishing Simulator,
+
+Added Emergency Response: Liberty County,
+
+Added Eating Simulator,
+
+Added Zombie Tycoon,
+
+Added Dalgona Simulator,
+
+Added Anime Tappers,
+
+Added Mermaid Life BETTA,
+
+Added Greenville,
+
+Added Ro-Ghoul,
+
+Added Electric State DarkRP,
+
+Added Rise of Nations,
+
+Added generic roleplay gaem,
+
+Added Word Bomb,
+
+Added Hole in the Wall
 
 --ADDING GAMES.
 
